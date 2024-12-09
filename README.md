@@ -34,6 +34,7 @@ Here are a few projects I'm working on or plan to showcase:
 
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/bolaji-farouq-b-0a6603193)
+- [Portfolio](https://www.datascienceportfol.io/Bolajifarouqbukola)
 
 ---
 
